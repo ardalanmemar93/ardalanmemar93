@@ -19,10 +19,4 @@
 ![npm badge](https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
 ![Git badge](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white) 
 
-<a href="https://github.com/ardalanmemar93/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ardalanmemar93" />
-</a>
-<a href="https://github.com/ardalanmemar93/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ardalanmemar93&layout=compact&langs_count=8&card_width=320" />
-</a>
 
